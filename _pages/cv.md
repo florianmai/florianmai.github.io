@@ -60,24 +60,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service
-#======
-#Reviewing for:
-#* ICLR 2020, 2021, 2022
-#* EMNLP 2020
-
 Hackathons and competitions
 ======
 Microsoft Hack@Home Hackathon Kiel
