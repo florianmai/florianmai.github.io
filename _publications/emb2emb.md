@@ -2,7 +2,6 @@
 title: "Plug and Play Autoencoders for Conditional Text Generation"
 collection: publications
 excerpt: 'We reduce conditional text generation tasks to learning in the embedding space of an autoencoder.'
-selected: true
 pubtype: 'peerreviewed'
 date: 2020-11-01
 venue: 'EMNLP'
