@@ -18,7 +18,7 @@ author_profile: true
      {% endif %}
 {% endfor %}
 
-## Peer-Reviewed Publications
+## All Peer-Reviewed Publications
 
 {% include base_path %}
 
