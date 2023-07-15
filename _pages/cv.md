@@ -11,18 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Ecole Polytechnique Federale de Lausanne (EPFL), 2023 (expected)
+* Ph.D in Electrical Engineering, Ecole Polytechnique Federale de Lausanne (EPFL), 2023
 * M.S. in Computer Science, Christian-Albrechts-University Kiel, 2018
 * B.S. in Computer Science, Christian-Albrechts-University Kiel, 2015
 
 Work experience
 ======
 
+* Since June 2023: Postdoctoral Research Fellow
+  * Language Intelligence & Information Retrieval lab at KU Leuven
+  * Duties: research on enhancing language models through planning, lecturing NLP classes, student supervision
 * March 2022 - August 2022: Research intern
   * Optimization with Learning Group, NAVER LABS Europe, Grenoble, France
   * Duties: development of AlphaZero-like algorithms for Neural Combinatorial Optimization
 
-* Since October 2018: Research assistant
+* October 2018 - May 2023: Research assistant
   * Natural Language Understanding Group, Idiap Research Institute, Martigny, Switzerland
   * Duties: Doctoral thesis on text representation learning and teaching NLP classes
 
