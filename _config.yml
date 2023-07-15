@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Florian Mai"
 title_separator          : "-"
 name                     : &name "Florian Mai"
-description              : &description "PhD Candidate @ EPFL and Idiap Research Institute"
+description              : &description "Postdoctoral Research Fellow @ KU Leuven"
 url                      : https://florianmai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "florianmai/florianmai.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Florian Mai"
   avatar           : "profile.jpg"
-  bio              : "Research assistant @ Idiap Research Institute, PhD student @ EPFL"
-  location         : "Martigny, Switzerland"
-  employer         : "Idiap Research Institute"
+  bio              : "Postdoctoral Research Fellow @ KU Leuven, PhD from EPFL"
+  location         : "Leuven, Belgium"
+  employer         : "KU Leuven"
   pubmed           : #""
   googlescholar    : "https://scholar.google.de/citations?user=MfETM20AAAAJ&hl=de"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "florian-mai-87708780"
+  linkedin         : "florian-mai"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
