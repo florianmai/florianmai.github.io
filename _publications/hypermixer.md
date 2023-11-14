@@ -3,7 +3,7 @@ title: "HyperMixer: An MLP-based Low Cost Alternative to Transformers"
 collection: publications
 excerpt: 'We propose an efficient all-MLP architecture with the same inductive biases as Transformers.'
 date: 2023-06-01
-venue: 'ACL 2023'
+venue: 'ACL'
 selected: true
 pubtype: 'peerreviewed'
 paperurl: 'https://arxiv.org/abs/2203.03691'
