@@ -5,28 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses Taught
+## Teaching Experience
 
-### [Course Name] - [University Name], [Semester Year]
-- [Brief description of the course]
-- [Key topics covered]
-- [Any notable outcomes or student projects]
+### Experience as a lecturer
 
-### [Course Name] - [University Name], [Semester Year]
-- [Brief description of the course]
-- [Key topics covered]
-- [Any notable outcomes or student projects]
+| Institution | Course | Semester | Description |
+|-------------|--------|----------|-------------|
+| KU Leuven | Natural Language Processing | Fall '23 | Two lectures on topics in Natural Language Processing. |
 
-## Guest Lectures
+### Experience as a teaching assistant
 
-- "[Lecture Title]" in [Course Name], [University Name], [Date]
-- "[Lecture Title]" in [Course Name], [University Name], [Date]
+| Institution | Course | Semester | Description |
+|-------------|--------|----------|-------------|
+| EPFL | Deep Learning for Natural Language Processing | Fall '19, Fall '21 | Topics in Natural Language Processing based on Deep Learning. |
+| UniDistance Suisse | Natural Language Processing | Spring '20 | Deep Learning solutions to Natural Language Processing tasks. |
+| Kiel University | "Algorithms and Data Structures" and "Computer Organization and Architecture" | Spring '12 / Spring '15 | Introductory courses at the BSc level. |
 
-## Mentoring
+### Formal training
 
-- Supervised [X] undergraduate research projects
-- Mentored [Y] graduate students in [Topic/Area]
-
-## Teaching Philosophy
-
-[Brief paragraph about your approach to teaching and mentoring]
+| Institution | Course | Semester | Description |
+|-------------|--------|----------|-------------|
+| EPFL | Science and Engineering Teaching and Learning | Spring '21 | Evidence-based effective teaching methods in STEM/CS. |
