@@ -11,7 +11,8 @@ author_profile: true
 
 | Institution | Course | Semester | Description |
 |-------------|--------|----------|-------------|
-| KU Leuven | Natural Language Processing | Fall '23 | Two lectures on topics in Natural Language Processing. |
+| University of Bonn | Large Language Models | Winter Semester 24/25 | A seminar series on topics related to state-of-the-art language models. |
+| KU Leuven | Natural Language Processing | Fall '23 / Fall '24 | In total I gave three lectures on topics in Natural Language Processing. |
 
 ### Experience as a teaching assistant
 
