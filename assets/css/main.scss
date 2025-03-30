@@ -39,3 +39,36 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* News section styling */
+.news {
+  margin-bottom: 2em;
+}
+
+.news-item {
+  margin: 1em 0;
+}
+
+.date {
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+.text {
+  display: inline;
+}
+
+/* Selected Publications styling */
+.publications-list {
+  margin-bottom: 2em;
+}
+
+.publication-item {
+  margin: 1em 0;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee; /* Optional separator */
+}
+
+.publication-item:last-child {
+  border-bottom: none; /* Remove border from last item */
+}
