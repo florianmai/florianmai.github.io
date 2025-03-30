@@ -72,3 +72,32 @@
 .publication-item:last-child {
   border-bottom: none; /* Remove border from last item */
 }
+
+/* Link Styling Improvements */
+/* Apply base styles more specifically */
+.page__content a, 
+.sidebar a, 
+.archive__item-title a, 
+.news-item .text a, 
+.publication-item a { /* Target links in common content areas */
+  color: #007bff; 
+  text-decoration: none !important; /* Add !important as a test */
+  transition: color 0.2s ease-in-out;
+}
+
+/* Apply hover styles more specifically */
+.page__content a:hover, .page__content a:focus,
+.sidebar a:hover, .sidebar a:focus,
+.archive__item-title a:hover, .archive__item-title a:focus,
+.news-item .text a:hover, .news-item .text a:focus,
+.publication-item a:hover, .publication-item a:focus {
+  color: #0056b3;
+  text-decoration: none !important; /* Add !important as a test */
+}
+
+/* Remove the general 'a' rules if the specific ones work */
+/*
+a { ... }
+a:hover, a:focus { ... }
+a:visited { ... } 
+*/

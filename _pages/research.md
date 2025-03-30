@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research Interests"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -9,12 +9,13 @@ My research focuses on advancing the field of Artificial Intelligence, with part
 
 
 
-1. **Alignment of Language Models and Agents** (2025 - ongoing)
-   - Language models are powerful tools for creating agents, but they are not aligned with human values. I am interested in developing methods to align language models with human values, and to use these models to create agents that are aligned with human values.
+1. **(Super)-Alignment of Language Models and Advanced AI** (2025 - ongoing)
+   - As AIs are becoming increasingly advanced, it becomes harder for humans to effectively oversee them. A common approach is to have other AIs provide the supervision. But how do you avoid a lock-in effect, where the values of today's AIs are preserved indefinitely? In our paper, [Superalignment with Dynamic Human Values](https://arxiv.org/abs/2503.13621), we propose a framework to align AIs with dynamically evolving human values.
+
 2. **Planning and Reasoning in Language Models** (2023 - ongoing)
    - LLMs are so successful because they are trained from huge amounts of unlabeled data. Most existing approaches to planning and reasoning in LLMs use advanced prompting techniques or finetune on domain-specific tasks, which do not exploit the strengths of unlabeled data. I am interested in developing new methods to leverage the strengths of unlabeled data to improve planning and reasoning in LLMs in general.
    - To make LLMs more robust and reliable, they need to be able to reason effectively. If we can leverage unlabeled data to learn a model of what would happen when taking an action in a certain context, we can leverage this model to make better decisions.
-   - In our [COLM 2024 paper](https://arxiv.org/abs/2404.00614), we learn to predict abstract writing actions from unlabeled data and use them to control the future writing process of the LM.
+   - In our [COLM 2024 paper](https://arxiv.org/abs/2404.00614), we learn to predict abstract writing actions from unlabeled data and use them to control the future writing process of the LM. Furthermore, we extended this approach to [predicting multiple steps into the future](https://arxiv.org/abs/2409.00070) and [making the process end-to-end differentiable](https://arxiv.org/abs/2410.12492).
 
 3. **Efficient Text Representation Learning** (2018 - 2023)
    - My PhD thesis focused on reducing the costs of natural language understanding in terms of processing time, required labeled data, and hyperparameter tuning. This research interest encompasses:

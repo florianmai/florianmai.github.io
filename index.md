@@ -7,9 +7,9 @@ author_profile: true
 
 ## Welcome
 
-I am a Junior Research Group Leader at the [CAISA group at University of Bonn](https://caisa-lab.github.io/), led by Lucie Flek, as part of [The Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/).
+I am a Junior Research Group Leader at the [CAISA group at University of Bonn](https://caisa-lab.github.io/) as part of [The Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/).
 
-My research focuses on learning planning components for language models from unlabeled data, applying the "bitter lesson" of AI to planning and reasoning in LLMs. I believe that taking the self-supervised learning approach to the level of planning and reasoning is key to unlocking the full potential of language models.
+My current research focuses on **AI alignment and safety issues**, exploring how to ensure that current and future advanced AI systems are beneficial and safe for humanity.
 
 [Read more about my research and background →](/about/)
 

@@ -5,10 +5,12 @@ permalink: /publication/2025-03-17-superalignment
 excerpt: 'This paper sketches a roadmap for training a superhuman reasoning model to decompose complex tasks into subtasks amenable to human-level guidance, addressing scalable oversight and dynamic human values in AI alignment.'
 date: 2025-03-17
 venue: 'ICLR 2025 Workshop on Bidirectional Human-AI Alignment (BiAlign)'
-paperurl: 'https://arxiv.org/abs/2503.13621'
-citation: 'Mai, F., Kaczér, D., Corrêa, N. K., & Flek, L. (2025). Superalignment with Dynamic Human Values. *arXiv preprint arXiv:2503.13621*. Presented at the ICLR 2025 Workshop on Bidirectional Human-AI Alignment (BiAlign).'
-authors: 'Florian Mai, David Kaczér, Nicholas Kluge Corrêa, Lucie Flek' # Optional: If you have an _data/authors.yml you might link authors like - florianmai - davidkaczer etc.
+citation: 'Florian Mai, David Kaczér, Nicholas Kluge Corrêa, Lucie Flek. (2025). &quot;Superalignment with Dynamic Human Values.&quot; <i>ICLR 2025 Workshop on Bidirectional Human-AI Alignment (BiAlign)</i>.'
 selected: true
+---
+This paper sketches a roadmap for training a superhuman reasoning model to decompose complex tasks into subtasks amenable to human-level guidance, addressing scalable oversight and dynamic human values in AI alignment.
+
+[Download paper here](https://arxiv.org/abs/2503.13621)
 ---
 
 ## Abstract
