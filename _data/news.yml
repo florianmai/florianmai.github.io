@@ -1,10 +1,14 @@
 - date: 2025-03-23
   text: 'Registrations are now open for the [International Conference on Large-Scale AI Risks from 26-28th May 2025](https://www.kuleuven.be/ethics-kuleuven/chair-ai/conference-ai-risks) in Leuven, Belgium. I helped organize this event and I look forward to seeing you there!'
 
+- date: 2025-03-20
+  text: 'I am participating in a [panel discussion on trustworthy AI](https://www.deutsches-museum.de/bonn/programm/veranstaltung/vertrauenswuerdige-ki) at the Deutsches Museum Bonn.'
+
 - date: 2025-03-06
   text: 'Our paper "[Superalignment with Dynamic Human Values](https://arxiv.org/abs/2503.13621)" was accepted at the BiAlign Workshop at ICLR 2025!'
 
 - date: 2025-01-01
   text: 'I started as a Junior Research Group Leader at University of Bonn as a part of the CAISA lab headed by Prof. Lucie Flek. My research will focus on AI safety topics like value alignment, and on reasoning and planning approaches for LLMs.'
 
-# Add more news items above this line 
+- date: 2024-10-01
+  text: 'I am starting a short-term scholarship at the CAISA lab at the University of Bonn, funded through the DAAD AInet program! Our project will focus on drafting a new approach to the [scalable oversight problem].(https://aisafety.info/questions/8EL8/What-is-scalable-oversight)'
