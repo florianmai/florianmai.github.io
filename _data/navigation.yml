@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Lab Page"
+    url: https://mai-alignment.github.io/
+
   - title: "About"
     url: /about/
 
@@ -8,9 +11,3 @@ main:
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "CV"
-    url: /files/cv.pdf

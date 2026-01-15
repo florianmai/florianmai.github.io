@@ -7,9 +7,11 @@ author_profile: true
 
 ## Welcome
 
-I am a Junior Research Group Leader at the [CAISA group at University of Bonn](https://caisa-lab.github.io/) as part of [The Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/).
+I am the Junior Research Group Leader of the [mAI-alignment group](https://mai-alignment.github.io/) at the [CAISA group at University of Bonn](https://caisa-lab.github.io/) as part of [The Lamarr Institute for Machine Learning and Artificial Intelligence](https://lamarr-institute.org/).
 
 My current research focuses on **AI alignment and safety issues**, exploring how to ensure that current and future advanced AI systems are beneficial and safe for humanity.
+
+[**Visit the lab page →**](https://mai-alignment.github.io/)
 
 [Read more about my research and background →](/about/)
 
