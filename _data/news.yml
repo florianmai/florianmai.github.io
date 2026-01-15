@@ -1,3 +1,24 @@
+- date: 2026-01-08
+  text: 'Our paper "[AI Alignment Strategies from a Risk Perspective: Independent Safety Mechanisms or Shared Failures?](https://arxiv.org/abs/2510.11235)" will be presented at IASEAI’26.'
+
+- date: 2025-12-14
+  text: 'Our workshop paper "[Pluralistic AI Alignment: A Cross-Cultural Pilot Survey](https://openreview.net/forum?id=A9oz6qFlQ4)" will be presented at the Second Workshop on Language Models for Underserved Communities (LM4UC).'
+
+- date: 2025-10-27
+  text: 'The AI alignment lab at Uni Bonn has started! Learn more on the [course page](https://mai-alignment.github.io/teaching/).'
+
+- date: 2025-10-13
+  text: 'New preprint! Leonard Dung and Florian Mai analyze AI alignment strategies from a risk perspective and compare overlaps in failure modes across alignment techniques. [Read the preprint on arXiv.](https://arxiv.org/abs/2510.11235)'
+
+- date: 2025-08-21
+  text: 'Our JQL paper has been accepted at EMNLP 2025! [Read the preprint on arXiv.](https://arxiv.org/abs/2505.22232)'
+
+- date: 2025-08-15
+  text: 'New preprint! Survey-to-Behavior aligns language models with human values using survey questions. [Check it out on arXiv.](https://arxiv.org/abs/2508.11414)'
+
+- date: 2025-08-08
+  text: 'New preprint! We explore in-training defenses against emergent misalignment in language models. [Check it out on arXiv.](https://arxiv.org/abs/2508.06249)'
+
 - date: 2025-03-23
   text: 'Registrations are now open for the [International Conference on Large-Scale AI Risks from 26-28th May 2025](https://www.kuleuven.be/ethics-kuleuven/chair-ai/conference-ai-risks) in Leuven, Belgium. I helped organize this event and I look forward to seeing you there!'
 
